@@ -9,3 +9,5 @@
 - **Observability**: Exposes p99 latency histograms, active mTLS sessions, and TLS cipher negotiation metrics.
 
 <!-- commit: feat: initial zero-trust proxy scaffolding and go.mod -->
+
+<!-- commit: feat(ebpf): integrate sockmap bypass for local container ingress -->
