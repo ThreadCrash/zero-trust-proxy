@@ -11,3 +11,5 @@
 <!-- commit: feat: initial zero-trust proxy scaffolding and go.mod -->
 
 <!-- commit: feat(ebpf): integrate sockmap bypass for local container ingress -->
+
+<!-- commit: feat(spiffe): implement SVID token validation and auto-rotation -->
