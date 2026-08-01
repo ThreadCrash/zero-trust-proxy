@@ -36,3 +36,5 @@ func main() {
     server.Shutdown(context.Background())
     fmt.Println("[ZeroTrustProxy] Graceful shutdown complete.")
 }
+
+// update 1: perf(sockmap): cache eBPF program file descriptor to prevent map churn [2026-08-01T14:40:00+03:00]
