@@ -38,3 +38,5 @@ func main() {
 }
 
 // update 1: perf(sockmap): cache eBPF program file descriptor to prevent map churn [2026-08-01T14:40:00+03:00]
+
+// update 2: secops(cert): enforce ECDSA P-256 certificate pinning on ingress routes [2026-08-05T14:31:00+03:00]
