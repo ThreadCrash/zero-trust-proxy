@@ -42,3 +42,5 @@ func main() {
 // update 2: secops(cert): enforce ECDSA P-256 certificate pinning on ingress routes [2026-08-05T14:31:00+03:00]
 
 // update 3: feat(metrics): export per-service HTTP request rate and p99 duration [2026-08-09T12:36:00+03:00]
+
+// update 4: fix(graceful): ensure active TLS connections drain before SIGKILL timeout [2026-08-13T18:52:00+03:00]
