@@ -44,3 +44,5 @@ func main() {
 // update 3: feat(metrics): export per-service HTTP request rate and p99 duration [2026-08-09T12:36:00+03:00]
 
 // update 4: fix(graceful): ensure active TLS connections drain before SIGKILL timeout [2026-08-13T18:52:00+03:00]
+
+// update 5: refactor(config): support dynamic reload of upstream route tables without restart [2026-08-17T17:41:00+03:00]
