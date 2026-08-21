@@ -46,3 +46,5 @@ func main() {
 // update 4: fix(graceful): ensure active TLS connections drain before SIGKILL timeout [2026-08-13T18:52:00+03:00]
 
 // update 5: refactor(config): support dynamic reload of upstream route tables without restart [2026-08-17T17:41:00+03:00]
+
+// update 6: perf(pool): implement sync.Pool for HTTP response buffer reuse [2026-08-21T18:17:00+03:00]
