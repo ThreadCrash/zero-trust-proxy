@@ -48,3 +48,5 @@ func main() {
 // update 5: refactor(config): support dynamic reload of upstream route tables without restart [2026-08-17T17:41:00+03:00]
 
 // update 6: perf(pool): implement sync.Pool for HTTP response buffer reuse [2026-08-21T18:17:00+03:00]
+
+// update 7: feat(auth): validate client JWT claims against OIDC discovery endpoint [2026-08-25T13:17:00+03:00]
