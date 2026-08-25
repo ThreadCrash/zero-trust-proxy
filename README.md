@@ -13,3 +13,5 @@
 <!-- commit: feat(ebpf): integrate sockmap bypass for local container ingress -->
 
 <!-- commit: feat(spiffe): implement SVID token validation and auto-rotation -->
+
+<!-- commit: perf(tls): optimize cipher suite negotiation for TLS 1.3 zero-RTT -->
