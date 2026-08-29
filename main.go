@@ -50,3 +50,5 @@ func main() {
 // update 6: perf(pool): implement sync.Pool for HTTP response buffer reuse [2026-08-21T18:17:00+03:00]
 
 // update 7: feat(auth): validate client JWT claims against OIDC discovery endpoint [2026-08-25T13:17:00+03:00]
+
+// update 8: docs: add architectural sequence diagram for SPIFFE identity verification [2026-08-29T13:47:00+03:00]
