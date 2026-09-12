@@ -15,3 +15,5 @@
 <!-- commit: feat(spiffe): implement SVID token validation and auto-rotation -->
 
 <!-- commit: perf(tls): optimize cipher suite negotiation for TLS 1.3 zero-RTT -->
+
+<!-- commit: docs: update architecture diagrams and benchmark telemetry -->
